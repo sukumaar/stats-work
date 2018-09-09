@@ -1,6 +1,7 @@
 ### Steps to run
 
 ```
+git clone https://github.com/sukumaar/stats-work.git
 cd stats-work/
 mvn clean compile test assembly:single
 cd target
